@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-spark-quantum",
+  "title": "Spark Quantum",
+  "emoji": "\u26a1",
+  "purpose": "Quantum-state operations. Superposition of research. Entangled repos share state instantly.",
+  "tools": [
+    "Quantum State",
+    "Entangle Repos",
+    "Superposition View",
+    "Collapse"
+  ],
+  "color": "#7c4dff",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
